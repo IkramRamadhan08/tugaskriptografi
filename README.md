@@ -6,7 +6,10 @@ Nama             : Ikram Ramadhan
 Nim              : 312110478
 Kelas            : TI.21.C.1
 ```
-#### ini adalah program login sederhana dan vigenere chipper menggunakan bahasa python.
+**Kata kunci RAHASIA**
+ kata kunci adalah "rahasia," karakter pertama "p" akan dienkripsi menggunakan karakter pertama "r" dari kata kunci, karakter kedua "a" dienkripsi menggunakan karakter kedua "a" dari kata kunci, karakter ketiga "s" dienkripsi menggunakan karakter ketiga "h" dari kata kunci, dan seterusnya.
+ 
+#### ini adalah program login sederhana dan vigenere chipper dalam bentuk "RAHASIA" menggunakan bahasa python.
      
 **Berikut penjelasan dari setiap bagian source code tersebut :**  
 ```
@@ -39,7 +42,6 @@ Jika token yang dimasukkan cocok dengan yang ada dalam database, login dianggap 
 Program ini dijalankan dalam blok if __name__ == "__main__":, yang berarti program akan dijalankan saat file Python ini dieksekusi sebagai program utama.
 
 ```
-
 * **Berikut adalah hasil screenshot program berhasil :**
 
 ![Gambar 1](assets/succed.png)
