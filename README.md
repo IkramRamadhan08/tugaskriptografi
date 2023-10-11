@@ -1,4 +1,4 @@
-# UAS - PENGOLAHAN CITRA
+tugas kriftografi
 ```
 Dosen Pengampu   : Ahmad Turmudi Zy, S.Kom., M.Kom
 Mata Kuliah      : Kriptografi
